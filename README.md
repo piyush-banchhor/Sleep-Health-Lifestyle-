@@ -96,8 +96,7 @@ Deploying insights through dashboards or reports
 
 📁 Repository Structure
 
-├── data/               # Raw and cleaned datasets  
-├── notebooks/          # Jupyter notebooks with EDA  
-├── visuals/            # Generated plots and charts  
+├── sleep_health_and_lifestyle_dataset(1)(1).csv /               # Raw  datasets  
+├── sleep_health & lifestyle.ipynb/          # Jupyter notebooks with EDA    
 └── README.md           # Project documentation  
 
